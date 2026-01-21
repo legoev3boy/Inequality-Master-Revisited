@@ -1,0 +1,7 @@
+{
+  "name": "Inequality Master",
+  "description": "An interactive 7th-grade math application powered by Gemini to practice real-world linear inequalities. Students solve unique word problems by writing out their reasoning and mathematical models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
